@@ -6,10 +6,10 @@ summaryLength = "30"
 theme = "airspace-hugo"
 title = "Airspace | Creative Agency Hugo Template"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content/catala"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "cat"
+languageName = "CAT"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
