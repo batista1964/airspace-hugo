@@ -8,7 +8,7 @@ title = "Airspace | Creative Agency Hugo Template"
 [Languages.en]
 contentDir = "content/catala"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "cat"
+languageCode = "ca"
 languageName = "CAT"
 weight = 1
 [Languages.en.menu]
@@ -42,10 +42,10 @@ URL = "hoaris"
 name = "Horaris i ubicació"
 weight = 7
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/es"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "es-ES"
+languageName = "ES"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
