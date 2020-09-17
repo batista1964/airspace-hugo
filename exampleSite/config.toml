@@ -11,65 +11,35 @@ copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Ri
 languageCode = "cat"
 languageName = "CAT"
 weight = 1
-[[Languages.en.menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.en.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
+[Languages.en.menu]
+footer = []
 [[Languages.en.menu.main]]
-URL = "/"
-name = "Home"
+URL = "/benvinguts"
+name = "Benvinguts"
 weight = 1
 [[Languages.en.menu.main]]
-URL = "about"
-name = "About"
+URL = "/historia"
+name = "La nostra història"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
+URL = "cuina"
+name = "La nostra cuina"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "service"
-name = "Service"
+name = "Reserves"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
+URL = "allotjament"
+name = "Allotjament"
+weight = "5"
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
+URL = "novetats"
+name = "Últimes novetats"
+weight = "6"
 [[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "hoaris"
+name = "Horaris i ubicació"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
